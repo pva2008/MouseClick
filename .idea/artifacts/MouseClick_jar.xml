@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MouseClick:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MouseClick_jar</output-path>
+    <root id="archive" name="MouseClick.jar">
+      <element id="module-output" name="MouseClick" />
+    </root>
+  </artifact>
+</component>
