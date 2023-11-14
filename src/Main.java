@@ -9,9 +9,9 @@ public class Main {
 //        int num = in.nextInt();
 
         for(;;) {
-            Thread.sleep(600000);
+            Thread.sleep(800000);
             clickMouse(300, 300);
-            Thread.sleep(600000);
+            Thread.sleep(800000);
             clickMouse(600, 600);
         }
 
