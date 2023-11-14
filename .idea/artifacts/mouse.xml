@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mouse">
+    <output-path>$PROJECT_DIR$/out/artifacts/mouse</output-path>
+    <root id="archive" name="mouse.jar" />
+  </artifact>
+</component>
